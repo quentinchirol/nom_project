@@ -1,1 +1,2 @@
-echo 'print("Hello Git !")' > main.py
+print("Hello Git !")
+print("Bienvenue")
